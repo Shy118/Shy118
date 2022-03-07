@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Shy118! I come from a Physics (Bachelor of Science) background with proficiency in Python Programaming (Numerical Methods, App development via PyQt)
+- 👀 I’m interested in Technology, Blockchain particularly
+- 🌱 I’m currently learning Solidity, Web3.0 with a strong desire to transition into the field of Blockchain industry
+- 💞️ I’m looking to collaborate with people of similar interest on small projects as a beginner
+- 📫 Do contact me at siahongyew@gmail.com
